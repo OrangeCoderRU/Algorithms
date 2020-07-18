@@ -7,9 +7,9 @@ def binary_search(list, item):
         guess = list[int(mid)]
         if guess == item: # совпадение
             return mid
-        if guess > item: # уменьшаем максимум наполовину
+        if guess > item: # уменьшаем максимум наполовину - 1
             high = mid - 1
-        else: # увеличиваем минимум наполовину
+        else: # увеличиваем минимум наполовину + 1
             low = mid + 1
     return None
 

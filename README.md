@@ -13,6 +13,7 @@
     return num
 ```
 ![alt text](screenshots/Screenshot_divide.png)
+
 Демонстрация рекурсивных вызовов
 
 

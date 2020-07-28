@@ -12,7 +12,7 @@
         num = list[0] + sum(list[1:])
     return num
 }«`
-![alt text](Screenshots/Screenshot_divide.png)
+![alt text](screenshots/Screenshot_divide.png)
 *Демонстрация рекурсивных вызовов вплоть до базового случая*
 
 
